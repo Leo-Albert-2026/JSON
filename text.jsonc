@@ -1,0 +1,11 @@
+{
+    "name": "Leo", // Comment
+    "age": 20,
+    "city": "Cairo",
+    "country": {
+        "Eg": "Beni-Suef"
+    },
+    "programming": ["HTML", "CSS", "JS"],
+    "accept": true,
+    "null": null
+}
